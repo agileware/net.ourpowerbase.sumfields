@@ -12,10 +12,10 @@ return array (
     array (
       'version' => 3,
       'name' => 'Call SumFields.Gendata API',
-      'description' => 'Call SumFields.Gendata API',
+      'description' => 'Execute summary fields calculations',
       'run_frequency' => 'Hourly',
       'api_entity' => 'SumFields',
-      'api_action' => 'Gendata',
+      'api_action' => 'gendata',
       'parameters' => '',
     ),
   ),
